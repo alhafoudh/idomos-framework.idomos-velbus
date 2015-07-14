@@ -1,0 +1,1 @@
+idomos-framework.idomos-velbus
